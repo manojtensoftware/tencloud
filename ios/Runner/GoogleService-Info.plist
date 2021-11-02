@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>962908926468-j123pho7qc8em74psc1f6ai0gfvg78g3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.962908926468-j123pho7qc8em74psc1f6ai0gfvg78g3</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>962908926468-24n912f3vgnkqrmo3h6qk13lj05fhjpn.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBCdXVcTE_j4Emn7gFOxahdr4UjMCOVObo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>962908926468</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tensoftware.tencloud</string>
+	<key>PROJECT_ID</key>
+	<string>tencloud-f9994</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tencloud-f9994.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:962908926468:ios:629c8ef264c1ceeb013b51</string>
+</dict>
+</plist>

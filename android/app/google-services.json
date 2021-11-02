@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "962908926468",
+    "project_id": "tencloud-f9994",
+    "storage_bucket": "tencloud-f9994.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962908926468:android:65086dcb2d19a1d8013b51",
+        "android_client_info": {
+          "package_name": "com.tensoftware.tencloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962908926468-24n912f3vgnkqrmo3h6qk13lj05fhjpn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tensoftware.tencloud",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "962908926468-jqffdg7bdpn826h69maslkv8ukurpksb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tensoftware.tencloud",
+            "certificate_hash": "2c653e3ca41e7f2a4cf53fc49c17ddaee4c25a04"
+          }
+        },
+        {
+          "client_id": "962908926468-qi1rvf1tiqj7f4h4f4al5nlpgp3bdjdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3Rka2AQ3FlW9E6QRj0k6GfBRDVOwxjNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962908926468-qi1rvf1tiqj7f4h4f4al5nlpgp3bdjdi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "962908926468-j123pho7qc8em74psc1f6ai0gfvg78g3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tensoftware.tencloud"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
